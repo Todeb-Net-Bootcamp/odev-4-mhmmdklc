@@ -17,19 +17,19 @@
 
 ### Customers Tablosu
    
-   <img width="681" alt="Customers" src="https://user-images.githubusercontent.com/105243448/179959251-d830188d-f486-4d08-8bcd-d44b949059b6.png">
+<img width="681" alt="Customers" src="https://user-images.githubusercontent.com/105243448/179959251-d830188d-f486-4d08-8bcd-d44b949059b6.png">
    
 ### Genres Tablosu
    
-   <img width="244" alt="Genres" src="https://user-images.githubusercontent.com/105243448/179959326-e6c9d6f5-c1e2-46e8-8bf1-ff6e5cc92908.png">
+<img width="244" alt="Genres" src="https://user-images.githubusercontent.com/105243448/179959326-e6c9d6f5-c1e2-46e8-8bf1-ff6e5cc92908.png">
    
 ### OrderDetails Tablosu
     
-   <img width="243" alt="OrderDetails" src="https://user-images.githubusercontent.com/105243448/179959544-7fe7984d-aec1-40f8-951a-6c6e128a33c0.png">
+<img width="243" alt="OrderDetails" src="https://user-images.githubusercontent.com/105243448/179959544-7fe7984d-aec1-40f8-951a-6c6e128a33c0.png">
    
 ### Orders Tablosu
     
-    <img width="367" alt="Orders" src="https://user-images.githubusercontent.com/105243448/179960182-b4d02254-3968-46e8-8e93-40140942921e.png">
+<img width="367" alt="Orders" src="https://user-images.githubusercontent.com/105243448/179960182-b4d02254-3968-46e8-8e93-40140942921e.png">
 
     
 ### Publisher Tablosu
