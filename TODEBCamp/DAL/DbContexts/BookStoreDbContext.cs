@@ -21,7 +21,7 @@ namespace DAL.DbContexts
             // PostgreSQL kullandığımız için UseNpgsql kullanarak database bağlantısını kuruyoruz.
             // Npgsql.EntityFrameworkCore.PostgreSQL paketini eklememiz gerekiyor.
 
-            base.OnConfiguring(optionsBuilder.UseNpgsql("Host=localhost;Database=deneme3;Username=postgres;Password=postgres"));
+            base.OnConfiguring(optionsBuilder.UseNpgsql("Host=localhost;Database=muhammedkilic;Username=postgres;Password=postgres"));
 
             // Migration Dotnet CLI codes
             // dotnet ef migrations add testmigration
