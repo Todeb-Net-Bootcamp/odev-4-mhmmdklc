@@ -29,7 +29,8 @@
    
 ### Orders Tablosu
     
-    <img width="367" alt="Orders" src="https://user-images.githubusercontent.com/105243448/179959672-9086dced-e21f-4a4a-8acd-7af9829df218.png">
+    <img width="367" alt="Orders" src="https://user-images.githubusercontent.com/105243448/179960182-b4d02254-3968-46e8-8e93-40140942921e.png">
+
     
 ### Publisher Tablosu
 
