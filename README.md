@@ -4,8 +4,9 @@
 
 
 
-
- 1-  Migration kullanarak EntityFramework vasıtasıyla PostgreSQL üzerinde database oluşturduk ve oluşturduğumuz database'in içerisinde 7 farklı tablo tanımladık. Tablolar Foreing Key ilişkisi ile birbirleriyle bağlantılı haldedir.
+Migration kullanarak EntityFramework vasıtasıyla PostgreSQL üzerinde database oluşturduk ve oluşturduğumuz database'in içerisinde 7 farklı tablo tanımladık. 
+Tablolar Foreing Key ilişkisi ile birbirleriyle bağlantılı haldedir.
+Id'ler Primary Key olarak tanımlandı ve değerleri uygulama tarafından uniqe olarak otomatik bir şekilde atanıyor.
        
 #### Authors Tablosu
        
