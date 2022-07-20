@@ -10,7 +10,7 @@ Tablolar Foreing Key ilişkisi ile birbirleriyle bağlantılı haldedir.
 
 Id'ler Primary Key olarak tanımlandı ve değerleri uygulama tarafından uniqe olarak otomatik bir şekilde atanıyor.
        
-#### Authors Tablosu
+### Authors Tablosu
        
 <img width="314" alt="Ekran Resmi 2022-07-20 12 44 45" src="https://user-images.githubusercontent.com/105243448/179958745-9aae6352-9048-4ed5-8472-aa3f6e63d5a8.png">
 
